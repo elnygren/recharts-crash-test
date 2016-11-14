@@ -1,5 +1,14 @@
 # Recharts Chrome crash
 
+**!! Note !!** 
+
+This demo is a heavily stripped version of an existing private/closed source project.
+
+> If I had more time, I would have written a shorter letter.
+>
+> -- <cite>Quite a lot of people, [actually](http://quoteinvestigator.com/2012/04/28/shorter-letter/).</cite>
+
+
 ### Installation
 
 ```

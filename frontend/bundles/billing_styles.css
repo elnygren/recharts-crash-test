@@ -1,0 +1,51 @@
+.billing_report {
+
+}
+
+.billing_report h2 {
+  margin-bottom: 10px;
+}
+
+.billing_report-header {
+  background-color: #dbdbdb;
+  padding: 15px 20px 29px;
+  font-weight: normal;
+  font-size: 13px;
+  line-height: 160%;
+
+  margin: 0px;
+  border: 0;
+}
+
+.billing_report-header h1 {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.billing_report-header p {
+  margin-top: 15px;
+}
+
+.billing_report-datepickers {
+  color: #ffffff;
+  background-color: #5a5a5a;
+  height: 45px;
+  line-height: 45px;
+  padding: 0 19px;
+}
+
+.billing_report-datepickers .react-datepicker__input-container {
+  padding-left: 15px
+}
+
+.billing_border-magic {
+  margin-right: 5px;
+  border-width: 0px 4px 0px 0;
+  border-style: solid;
+  -o-border-image:
+    linear-gradient(to right, rgb(228, 228, 228), rgb(215, 215, 215)) 1 100%;
+     border-image:
+    -webkit-linear-gradient(left, rgb(228, 228, 228), rgb(215, 215, 215)) 1 100%;
+     border-image:
+    linear-gradient(to right, rgb(228, 228, 228), rgb(215, 215, 215)) 1 100%;
+}

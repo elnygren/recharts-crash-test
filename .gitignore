@@ -1,0 +1,6 @@
+/node_modules/
+/frontend/bin/
+node_modules
+billing_testdata.json
+test_data.json
+npm-debug.log
